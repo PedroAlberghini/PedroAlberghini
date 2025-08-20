@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👋 Olá, eu sou [Pedro Alberghini]!
 
-<!--
-**PedroAlberghini/PedroAlberghini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Em busca de uma carreira na **Engenharia de Software**  
+💻 Atualmente estudando **Golang** e explorando o mundo da programação  
+🚀 Apaixonado por tecnologia, aprendizado contínuo e resolver problemas com código
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Sobre mim
+
+Sou iniciante na área de desenvolvimento, mas com muita vontade de aprender e crescer profissionalmente.  
+Comecei meus estudos com **Golang**, uma linguagem poderosa e eficiente, e estou dando meus primeiros passos com projetos simples e muita prática.
+
+---
+
+## 🛠️ Tecnologias que estou aprendendo
+
+- 🐹 **Golang** – foco atual
+- 📦 Git & GitHub – controle de versão e colaboração
+- 🔍 Em breve: APIs, banco de dados e testes
+
+---
+
+## 📁 Repositórios em destaque
+
+Aqui você vai encontrar meus projetos de estudo, desafios e experimentos com Golang e outras tecnologias.  
+Cada repo é uma etapa da minha jornada — sinta-se à vontade para acompanhar!
+
+---
+
+## 📬 Contato
+
+- 📧 [pedro.alberghini@hotmail.com]  
+- 💼 [LinkedIn](https://www.linkedin.com/in/pedro-henrique-alberghini-240a421ab/)  
+- 🐙 Aqui mesmo no GitHub!
+
+---
+
+> “A jornada é longa, mas o código é meu guia.”  
